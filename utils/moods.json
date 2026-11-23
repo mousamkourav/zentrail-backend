@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "title": "Peace & Calm",
+    "description": "Find Your Inner Balance",
+    "image": {
+      "url": "https://cdn.example.com/moods/peace.jpg",
+      "alt": "Peaceful mountains"
+    }
+  },
+  {
+    "id": "2",
+    "title": "For Adventure",
+    "description": "Live the Thrill",
+    "image": {
+      "url": "https://cdn.example.com/moods/adventure.jpg",
+      "alt": "Adventure trekking"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Curiosity",
+    "description": "Travel That Teaches You Something",
+    "image": {
+      "url": "https://cdn.example.com/moods/healing.jpg",
+      "alt": "Healing retreat"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Exploration",
+    "description": "Go Beyond the Usual",
+    "image": {
+      "url": "https://cdn.example.com/moods/curiosity.jpg",
+      "alt": "Curious traveler"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Digital Detox",
+    "description": "Switch Off & Reconnect With Life",
+    "image": {
+      "url": "https://cdn.example.com/moods/curiosity.jpg",
+      "alt": "Zentrail "
+    }
+  }
+
+]

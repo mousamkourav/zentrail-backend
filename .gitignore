@@ -1,0 +1,58 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# CI/CD configs
+azure-pipelines.yml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Uploads or temporary files
+# uploads/
+temp/
+*.tmp
+
+# Build artifacts
+dist/
+build/
+
+# Optional: ignore MongoDB dump/restore files
+dump/
+*.bson
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Deployment credentials
+*.pem
+*.key
+
+# Azure deployment configuration
+azure-pipelines.yml
+.azure-pipelines.yml
+
+# Environment files
+.env
+.env.*
+!.env.example
